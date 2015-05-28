@@ -1,0 +1,32 @@
+#redbox {
+	width:5em;
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+	text-align:center;
+	display:inline-block;
+}
+#greenbox{
+width:5em;
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+	text-align:center;
+	display:inline-block;
+}
+
+#bluebox{
+width:5em;
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+	text-align:center;
+	display:inline-block;
+
+}
+
+#bigBox{
+	background-color:black;
+	color:white;
+
+}
